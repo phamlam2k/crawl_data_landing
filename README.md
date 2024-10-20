@@ -1,7 +1,7 @@
 # Summarize Article
 
 ## Description
-Summarize Article is a web application that allows users to input a URL of an article and receive a summarized version of the content. The application uses OpenAI's GPT model for summarization and falls back to the Sumy library for summarization in case of API rate limits or errors.
+Summarize Estate is a web application that allows users to input a URL of an article and receive a summarized version of the content. The application uses OpenAI's GPT model for summarization and falls back to the Sumy library for summarization in case of API rate limits or errors.
 
 ## Features
 - Summarize articles from any URL.
