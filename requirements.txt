@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+beautifulsoup4
+requests
+langchain==0.1.0
+langchain-openai==0.0.2
+openai
+python-dotenv
+sumy
+nltk
+black
